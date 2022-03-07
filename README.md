@@ -1,2 +1,4 @@
 # pagina-web
- Um página web responsiva.
+ Um página web responsiva que conta a história do mascote do Sistema Opercional Android.
+ 
+ Para vizualizar o projeto: 
